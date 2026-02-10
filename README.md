@@ -103,11 +103,11 @@ In addition to reviewing your SQL knowledge, in this process you will also pract
 
 5. **Merge the Specified Branch into the Current branch**
       
-          git merge new-feature
+          git merge new-feature --no-edit
       
-   If this command takes you to a strange window in the Terminal where you can't type anything, don't panic! This is called Vim, a text editor that lives on the command line. You can exit back to the normal command line by typing `:wq`. 
+   We add `--no-edit` to the end of this command to avoid opening Vim, a text editor that lives on the command line. If you accidentally forget to add `--no-edit` and open Vim, don't panic! You can exit Vim and go back to the normal command line by typing `:wq`.
    
-6. **Push the Merged Changes to the Remote Repository**
+7. **Push the Merged Changes to the Remote Repository**
    
       After a successful merge, push the updated `main` branch to GitHub:
       
