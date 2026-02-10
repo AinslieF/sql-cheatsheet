@@ -35,7 +35,7 @@ CREATE TABLE friends (
 );
 ```
 
-### 3. `INSERT INTO` — assigned to _____
+### 3. `INSERT INTO` — assigned to Ainslie
 
 **Description:** 
 
@@ -45,19 +45,9 @@ CREATE TABLE friends (
 
 ```
 
-### 4. `UPDATE` — assigned to _____
+### 4. `UPDATE` — assigned to Babz
 
-**Description:**
-
-**Example:**
-
-```sql
-
-```
-
-### 5. `DELETE FROM` — assigned to _____
-
-**Description:**
+**Description:** 
 
 **Example:**
 
@@ -65,19 +55,9 @@ CREATE TABLE friends (
 
 ```
 
-### 6. `GROUP BY` — assigned to _____
+### 5. `DELETE FROM` — assigned to Haine
 
-**Description:**
-
-**Example:**
-
-```sql
-
-```
-
-### 7. `ORDER BY` — assigned to _____
-
-**Description:**
+**Description:** 
 
 **Example:**
 
@@ -85,19 +65,9 @@ CREATE TABLE friends (
 
 ```
 
-### 8. `INNER JOIN` — assigned to _____
+### 6. `GROUP BY` — assigned to Jackie
 
-**Description:**
-
-**Example:**
-
-```sql
-
-```
-
-### 9. `LIMIT` — assigned to _____
-
-**Description:**
+**Description:** 
 
 **Example:**
 
@@ -105,9 +75,9 @@ CREATE TABLE friends (
 
 ```
 
-### 10. `ON CONFLICT` — assigned to _____
+### 7. `ORDER BY` — assigned to Jenny
 
-**Description:**
+**Description:** 
 
 **Example:**
 
@@ -115,9 +85,49 @@ CREATE TABLE friends (
 
 ```
 
-### 11. `LIKE` — assigned to _____
+### 8. `INNER JOIN` — assigned to Megan
 
-**Description:**
+**Description:** 
+
+**Example:**
+
+```sql
+
+```
+
+### 9. `LIMIT` — assigned to Mimi
+
+**Description:** 
+
+**Example:**
+
+```sql
+
+```
+
+### 10. `ON CONFLICT` — assigned to Priscilla
+
+**Description:** 
+
+**Example:**
+
+```sql
+
+```
+
+### 11. `LIKE` — assigned to Stephanie
+
+**Description:** 
+
+**Example:**
+
+```sql
+
+```
+
+### 12. `COUNT` — assigned to Tee
+
+**Description:** 
 
 **Example:**
 
