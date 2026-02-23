@@ -1,4 +1,6 @@
-<img width="1402" height="209" alt="image" src="https://github.com/user-attachments/assets/b8182209-4ff8-4ebf-8b47-2022b9dda3c9" /># Let's make a SQL cheatsheet together! 
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/b8182209-4ff8-4ebf-8b47-2022b9dda3c9" />
+
+# Let's make a SQL cheatsheet together! 
 
 In the SQL-cheatsheet.md file, you will see several SQL-related terms. Some have been already been defined. Your job is to collaborate with your colleagues to define the rest of the SQL terms in this cheatsheet. 
 
