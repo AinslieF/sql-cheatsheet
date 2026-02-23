@@ -36,7 +36,8 @@ In addition to reviewing your SQL knowledge, in this process you will also pract
 1. Fork this Repository to make a copy into your Github account by selecting the 'Fork' button
    <img width="707" alt="Screenshot of Github repo with Fork button" src="https://github.com/user-attachments/assets/0f6a1ddf-60d2-4e63-859c-b84bfaafacde" />
 
-2. Confirm you forked the repo. At the top of the repo's page, instead of `ac-backend` like in the below screenshot, you should see your own Github username followed by the name of the repo. 
+2. Confirm you forked the repo. At the top of the repo's page, instead of `ac-backend` like in the below screenshot, you should see your own Github username followed by the name of the repo.
+   
     <img width="1200" alt="Screenshot of Github header with the user's username (ac-backend) followed by name of the repo, sql-cheatsheet" src="https://github.com/user-attachments/assets/40753523-dc79-4cd3-99a3-c7346aef35bb" />
 
 3. Clone the Repository into your local machine
