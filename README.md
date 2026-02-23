@@ -44,8 +44,8 @@ In addition to reviewing your SQL knowledge, in this process you will also pract
 
 3. Clone the Repository into your local machine
     - Go to your Github repo's page on GitHub. Click on the green “Code” button and copy the repo's URL
+      
         ![image](https://github.com/user-attachments/assets/fd6fcf7f-9246-42da-80be-0c4d75c3f48a)
-
         
     - Open the Terminal
     - `cd` to into your `dev` folder, which is where you want to clone the repo
